@@ -5,4 +5,4 @@ Features
 2. Auto layout menggunakan Display Grid
 3. Menggunakan A11YSlider
 
-Website ini bisa dilihat langsung pada website : 
+Website ini bisa dilihat langsung pada website : https://front-end-project-psi.vercel.app/
